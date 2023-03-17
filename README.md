@@ -11,7 +11,7 @@
 <li align="center"><a href="#Licenses">Licenses</a></li>
      
 <h2 align="center" id="Installation">Installation</h2>
-<p align="center">N/A/p>
+<p align="center">N/A</p>
    
 <h2 align="center" id="Usage">Usage</h2>
 <p align="center">You can access my project, E-Commerce Database, by simply clicking on this highlighted text. This link will allow you to download the tutorial video.</p>
