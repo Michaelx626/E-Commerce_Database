@@ -19,10 +19,10 @@
 
 <h2 align="center">Screenshots</h2>
 
-![text](./Develop/public/assets/screenshots/Screen%20Shot%202023-03-02%20at%2010.50.49%20PM.png)
+![text](./Develop/screenshots/Screen%20Shot%202023-03-15%20at%2012.01.36%20AM.png)
 
 <h2 align="center" id="Credits">Credit</h2>
-<p align="center"><a href="https://github.com/coding-boot-camp/miniature-eureka}" target="_blank">Special Thanks to: Xandromus for the starter codes!</a></p>
+<p align="center"><a href="https://github.com/coding-boot-camp/fantastic-umbrella" target="_blank">Special Thanks to: Xandromus for the starter codes!</a></p>
 
 <h2 align="center">Tests</h2>
 <p align="center">N/A</p>
